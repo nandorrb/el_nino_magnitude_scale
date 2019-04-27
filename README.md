@@ -4,7 +4,7 @@ En Perú, cada año el fenomeno del niño produce millonarias perdidas, asi como
 
 ### Comparación entre el Fenomeno del niño vs Un terremoto
 
-| Fenomeno del niño  | Terremoto |
+| **Fenomeno del niño**  | **Terremoto** |
 | ------------- | ------------- |
 | Consiste en una liberacion de energia transmitida por el agua.  | Consiste en una liberacion de energia en forma de movimiento.  |
 | Puede causar caida de multiples edificios, dependiendo de su impacto  | Puede causar caida de multiples edificios, dependiendo de su impacto  |
