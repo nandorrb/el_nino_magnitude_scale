@@ -11,7 +11,7 @@ En Perú, cada año el fenomeno del niño produce millonarias perdidas, asi como
 | No ha sido normado en el [Reglamento Nacional de Edificaciones](www.urbanistasperu.org/rne/.../Reglamento%20Nacional%20de%20Edificaciones.pdf) por lo que su impacto sigue siendo catastrofico año tras año. | Esta correctamente normado en el [Reglamento Nacional de Edificaciones](www.urbanistasperu.org/rne/.../Reglamento%20Nacional%20de%20Edificaciones.pdf) |
 
 ### Como funciona la escala de ritcher
-Segun la pagina web [muyinteresante](https://www.muyinteresante.es/ciencia/preguntas-respuestas/como-funciona-la-escala-de-richter-501481801518),  La escala sismológica de Richter o escala de magnitud local (ML), es una escala logarítmica arbitraria que asigna un número para cuantificar la energía liberada en un terremoto, denominada así en honor del sismólogo estadounidense Charles Richter (1900-1985).
+La escala sismológica de Richter o escala de magnitud local (ML), es una escala logarítmica arbitraria que asigna un número para cuantificar la energía liberada en un terremoto, denominada así en honor del sismólogo estadounidense Charles Richter (1900-1985).
 ![Escala Ritcher](http://sites.ipleiria.pt/seismicknowledge/files/2017/09/Relaci%C3%B3n-MagnitudEnerg%C3%ADa-descargada-seg%C3%BAn-la-Escala-S%C3%ADsmica-de-Richter.-Frecuencia-de-ocurrencia-de-terremotos-seg%C3%BAn-su-magnitud.-1-1024x563.jpg)
 
 ### Implementacion de la escala de rither en el [Reglamento Nacional de Edificaciones](www.urbanistasperu.org/rne/.../Reglamento%20Nacional%20de%20Edificaciones.pdf) 
