@@ -41,11 +41,14 @@ Mediante los datos proveidos por la NASA, es posible calcular la un indicador de
 energia= area*(Diferencia de Temperatura)*(Calor Especifico del agua)*(Densidad del Agua)
 Escala = ln(energia)
 ```
+Donde el area de investigacion se encuentra de manera analoga con el informe del IMARPE, se toma en cuenta las *anomalías térmicas (°C) frente a las costas de Sudamérica entre 5°N y 25°S y entre la costa peruana y 90°W*.
+
 ### Significado Fisico
 El numero obtenido mediante la ecuacion anterior, es un **indicador de energia acumulada en el mar** en unidades de [J/m] parametro de aumenta de manera dramatica durante los meses de diciembre-enero, produciendo lluvias torrenciales a nivel nacional.
 
 ### Codigo Usado
 El codigo usado en este proyecto se encuentra en el [presente repositorio](https://github.com/nandorrb/el_nino_magnitude_scale/)
+
 ### Resultados Obtenidos
 La siguiente imagen es un cuadro que muestra la energia acumulada en el mar durante los ultimos 4 años.
 ![Energia](FenomenoDelNinoEnergia.jpg)
